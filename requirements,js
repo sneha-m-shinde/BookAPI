@@ -1,0 +1,7 @@
+//Requirements for Book manegment project
+
+//Books: ISBN, Title, Publication Date, Language, No. of pages, Author[], category[]
+
+//Authors: id, name, books[]
+
+//Publications: id, name, book[]
